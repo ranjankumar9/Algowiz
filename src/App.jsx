@@ -1,4 +1,3 @@
-// App.js
 import { useEffect, useState } from "react";
 import io from 'socket.io-client';
 import Graph from "./Components/Graph/Graph";
